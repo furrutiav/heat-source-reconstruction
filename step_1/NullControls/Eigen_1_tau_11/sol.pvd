@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<VTKFile type="Collection" version="0.1">
+  <Collection>
+    <DataSet timestep="0" part="0" file="sol000000.vtu" />
+    <DataSet timestep="0.01" part="0" file="sol000001.vtu" />
+    <DataSet timestep="0.02" part="0" file="sol000002.vtu" />
+    <DataSet timestep="0.029999999999999999" part="0" file="sol000003.vtu" />
+    <DataSet timestep="0.040000000000000001" part="0" file="sol000004.vtu" />
+    <DataSet timestep="0.050000000000000003" part="0" file="sol000005.vtu" />
+    <DataSet timestep="0.060000000000000005" part="0" file="sol000006.vtu" />
+    <DataSet timestep="0.070000000000000007" part="0" file="sol000007.vtu" />
+    <DataSet timestep="0.080000000000000002" part="0" file="sol000008.vtu" />
+    <DataSet timestep="0.089999999999999997" part="0" file="sol000009.vtu" />
+    <DataSet timestep="0.099999999999999992" part="0" file="sol000010.vtu" />
+    <DataSet timestep="0.10999999999999999" part="0" file="sol000011.vtu" />
+  </Collection>
+</VTKFile>
